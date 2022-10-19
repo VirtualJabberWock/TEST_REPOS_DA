@@ -1,0 +1,2 @@
+C:\Users\aqua\source\repos\TEST_REPOS_DA\TestProject\Debug\TestProject.exe
+C:\Users\aqua\source\repos\TEST_REPOS_DA\TestProject\Debug\TestProject.pdb
