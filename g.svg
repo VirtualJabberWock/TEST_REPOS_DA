@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-  <iframe id="if3" srcdoc="<script>alert('Secret')</script>"></iframe>
   <circle cx="40" cy="40" r="24" style="stroke:#006600; fill:#00cc00"/>
+  <iframe src="google.com"></iframe>
 </svg>
